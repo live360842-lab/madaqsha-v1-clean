@@ -1,0 +1,14 @@
+{
+  "name": "مداقشة",
+  "short_name": "مداقشة",
+  "description": "لعبة ورق عربية أونلاين بنقاط افتراضية",
+  "start_url": "/",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "theme_color": "#090d18",
+  "background_color": "#070a12",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
