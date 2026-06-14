@@ -1,0 +1,17 @@
+{
+  "name": "madaqsha-v1-clean",
+  "version": "1.0.0",
+  "description": "مداقشة - لعبة ورق عربية أونلاين Mobile-first",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
